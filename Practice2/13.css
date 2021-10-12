@@ -1,0 +1,30 @@
+.primary-cta{
+visibility: visible;
+font-size: 2em;
+color:white;
+background-color: blue;
+
+}
+/*.secondry-cta{
+    visibility: visible;
+}*/
+
+
+
+.page-heading{
+    color:red;
+    font-size:3rem;
+    background-color: yellow;
+}
+
+.heading1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:cornsilk;
+    font-size: 2em;
+}
+
+.heading2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:cornsilk;
+    font-size: 2em;
+}

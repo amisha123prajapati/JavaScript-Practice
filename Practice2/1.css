@@ -1,0 +1,18 @@
+.abc{
+    visibility: hidden;
+}
+
+.heading1{
+    background-color: red;
+display: inline-block;
+visibility: initial;
+width: 100px;
+height: 200px;
+}
+.heading2{
+    background-color: green;
+    width: 500px;
+    height: 300px;
+    display: inline-block;
+    visibility: hidden;
+}

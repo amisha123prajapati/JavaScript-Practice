@@ -1,0 +1,27 @@
+.div1{
+width: 100px;
+height: 100px;
+background-color: red;
+border: 2px solid blue;
+
+}
+
+.div2{
+    width: 100px;
+    height: 100px;
+    background-color:green;
+    border: 2px solid black;
+    z-index: 1;
+    position: relative;
+
+}
+
+.div3{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 2px solid red;
+    margin-top: -30px;
+   /* z-index: 2;
+position: relative;*/
+}
